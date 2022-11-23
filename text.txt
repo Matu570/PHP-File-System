@@ -1,0 +1,2 @@
+Hello World! I am a text file.
+This is my second line.<br>I am a text introduced from PHP<br>I am a text introduced from PHP<br>I am a text introduced from PHP<br>I am a text introduced from PHP<br>I am a text introduced from PHP<br>I am a text introduced from PHP
